@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "1c8b66a6f69bdfe21cbd32dc4af573ec0fd7f9ec"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Demonology.Prime/1.0.0": {
+        "dependencies": {
+          "OptimizedPriorityQueue": "4.1.1",
+          "Microsoft.EntityFrameworkCore": "2.1.0.0"
+        },
+        "runtime": {
+          "Demonology.Prime.dll": {}
+        }
+      },
+      "OptimizedPriorityQueue/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.0/Priority Queue.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.1.1.0"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore/2.1.0.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.18136"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demonology.Prime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OptimizedPriorityQueue/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d5XJqkj122UrGrBt/7DQuseohSjuQj7uB7nrxaQV2RHQJ3BdGyoIHtYOrKEx54G2ldUT8HDfjV/6ag2FHCnTyA==",
+      "path": "optimizedpriorityqueue/4.1.1",
+      "hashPath": "optimizedpriorityqueue.4.1.1.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore/2.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

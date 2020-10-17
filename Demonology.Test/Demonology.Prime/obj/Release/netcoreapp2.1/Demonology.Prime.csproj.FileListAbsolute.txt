@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\bin\Release\netcoreapp2.1\Demonology.Prime.deps.json
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\bin\Release\netcoreapp2.1\Demonology.Prime.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\bin\Release\netcoreapp2.1\Demonology.Prime.pdb
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\bin\Release\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\bin\Release\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.csproj.CopyComplete
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Prime\obj\Release\netcoreapp2.1\Demonology.Prime.pdb

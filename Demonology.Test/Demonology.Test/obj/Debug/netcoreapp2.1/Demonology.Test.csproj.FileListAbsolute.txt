@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Test.deps.json
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Test.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Test.runtimeconfig.dev.json
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Test.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Test.pdb
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Prime.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\bin\Debug\netcoreapp2.1\Demonology.Prime.pdb
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.csproj.CopyComplete
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.dll
+C:\Users\User\Desktop\Projects\Demonology\Demonology.Test\Demonology.Test\obj\Debug\netcoreapp2.1\Demonology.Test.pdb
